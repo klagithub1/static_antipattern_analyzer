@@ -1,0 +1,7 @@
+logging.level.root: DEBUG
+logging.level.com.walmart: DEBUG
+logging.level.org.neo4j.ogm.session: TRACE
+logging.level.org.neo4j.server.rest.transactional: TRACE
+logging.level.org.springframework.data.neo4j.transaction: TRACE
+logging.level.org.springframework.transaction.interceptor: TRACE
+logging.level.org.neo4j.ogm.session.transaction: TRACE

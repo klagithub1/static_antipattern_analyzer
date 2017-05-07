@@ -1,0 +1,4 @@
+target
+target/*
+SpringDataNeo4jTest.iml
+.idea
